@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "prescience",
+  "versions": [
+    {
+      "commit": "47384ed79c48cfef610f30af12ba883f2a0093cb",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:40:46.779436+00:00"
+    }
+  ]
+}
